@@ -24,3 +24,4 @@ run-dev-svc:
 run-svc:
 	@echo "Running service..."
 	@python devchat/_service/main.py
+	@python devchat/_service/main.py
